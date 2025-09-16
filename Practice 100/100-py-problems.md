@@ -1,27 +1,27 @@
 # Python Practice Problems
 
-1.  User will input (3 ages). Find the oldest one.
-2.  Write a program that will convert Celsius value to Fahrenheit.
-3.  User will input (2 numbers). Write a program to swap the numbers.
-4.  Write a program that will give you the sum of 3 digits.
+1.  User will input (3 ages). Find the oldest one. [ok]
+2.  Write a program that will convert Celsius value to Fahrenheit. [ok]
+3.  User will input (2 numbers). Write a program to swap the numbers. [ok] 
+4.  Write a program that will give you the sum of 3 digits. [ok]
 5.  Write a program that will reverse a four-digit number. Also check
-    whether the reverse is true.
+    whether the reverse is true. [ok]
 6.  Write a program that will tell whether the number entered by the
-    user is odd or even.
+    user is odd or even.'[ok]
 7.  Write a program that will tell whether the given year is a leap year
-    or not.
+    or not.[ok]
 8.  Write a program to find the Euclidean distance between two
-    coordinates.
+    coordinates.[ok]
 9.  Write a program that takes user input of three angles and will find
-    out whether it can form a triangle or not.
+    out whether it can form a triangle or not.[ok]
 10. Write a program that will take user input of cost price and selling
-    price and determine whether it's a loss or a profit.
+    price and determine whether it's a loss or a profit.[ok]
 11. Write a program to find the simple interest when the value of
-    principle, rate of interest and time period is given.
+    principle, rate of interest and time period is given.[ok]
 12. Write a program to find the volume of a cylinder. Also find the cost
-    when the cost of 1 litre milk is 40 Rs.
+    when the cost of 1 litre milk is 40 Rs.[ok]
 13. Write a program that will tell whether the given number is divisible
-    by 3 & 6.
+    by 3 & 6.[ok]
 14. Solve: Angle between hour and minute hand (GFG).
 15. Solve: Overlapping rectangles (GFG).
 16. Write a program that will determine weather when the value of
