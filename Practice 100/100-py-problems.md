@@ -22,14 +22,14 @@
     when the cost of 1 litre milk is 40 Rs.[ok]
 13. Write a program that will tell whether the given number is divisible
     by 3 & 6.[ok]
-14. Solve: Angle between hour and minute hand (GFG).
-15. Solve: Overlapping rectangles (GFG).
+14. Solve: Angle between hour and minute hand (GFG).[ok]
+15. Solve: Overlapping rectangles (GFG).[no]
 16. Write a program that will determine weather when the value of
     temperature and humidity is provided by the user.
 17. Write a program that will take three digits from the user and add
-    the square of each digit.
+    the square of each digit.[ok]
 18. Write a program that will check whether the number is Armstrong
-    number or not.
+    number or not.[ok]
 19. Write a program that will take user input of a 4-digit number and
     check whether the number is a narcissist number or not.
 20. Write a program that will give you the in-hand salary after
