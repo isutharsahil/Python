@@ -1,8 +1,8 @@
-a = input()
-print(a,"REAL")
-x = a[::-1]
-print(x,"REVERSED")
-if x == a[::-1]:
-    print("True")
+a = str(input("Reverse a n-digit number: "))
+print("ORIGINAL IS: ",a)
+b = a[::-1]
+print("REVERSED IS: ",b)
+if b == a[::-1]:
+    print(True)
 else:
-     print("False")
+    print(False)

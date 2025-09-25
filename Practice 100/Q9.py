@@ -1,14 +1,8 @@
-a = int(input("1-"))
-b = int(input("2-"))
-c = int(input("3-"))
-
-# x = a+b > c and a+c > b and b+c > a
-# if x:
-#     print("Possible")
-# else:
-#     print("Not Possible")
-
-if a+b+c== 180:
-    print("Possible")
-else:
-    print("Not Possible")
+try:    
+    a, b, c = map(int, input("input 3 numbers eg {60 60 60} : ").split())
+    if a>0 and b>0 and c>0 and a+b+c == 180:
+        print("it does 😎")
+    else:
+        print("it does not 😣")
+except:
+    print("invalid input 😶‍🌫️")
