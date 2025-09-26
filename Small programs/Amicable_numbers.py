@@ -18,4 +18,4 @@ def amicable(limit):
     except:
         print("input error")
 
-amicable(1000)
+amicable(10000)
