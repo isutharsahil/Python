@@ -68,7 +68,7 @@ if __name__ == "__main__":
         library = Library()
 
         while True:
-            print("\n=========== 📖 Library Menu ===========")
+            print("\n=========== Library Menu ===========")
             print("1. Add Student")
             print("2. Display Books")
             print("3. Issue Book")
