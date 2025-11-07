@@ -1,45 +1,41 @@
-DevOps | AWS | Python Learning Journey 🚀
+Python Learning Journey 🐍
 
-Welcome to my learning repository where I document my progress in DevOps, AWS, and Python.
-This repo will contain notes, practice projects, code snippets, and automation scripts as I build my skills step by step.
+Welcome to my Python learning repository!
+This is where I document my journey of exploring Python, practicing coding, and building automation scripts. Here, you'll find notes, code snippets, mini-projects, and experiments as I grow my Python skills step by step.
 
-📌 Goals
+🎯 Goals
 
-Learn and practice Python for automation and scripting.
+Learn and practice Python fundamentals and advanced concepts.
 
-Gain hands-on experience with AWS services (EC2, S3, IAM, Lambda, CloudFormation, etc.).
+Build automation scripts to simplify tasks.
 
-Understand and implement DevOps tools & practices (Linux, Git, Docker, Jenkins, Ansible, CI/CD pipelines).
+Work on small projects to apply Python in real-world scenarios.
 
-Build and share mini-projects along the way.
+Explore APIs, file handling, and Python libraries.
 
-🛠 Tools & Tech Stack
+
+🛠 Skills & Tools
 
 Programming: Python 🐍
 
-Cloud: AWS ☁️
+Automation: File handling, APIs, scripting
 
-DevOps Tools: Linux, Git, Docker, Jenkins, Ansible, Terraform
+Other Skills: Bash scripting basics, integrating Python with other tools
 
-Other: Bash scripting, CI/CD, Monitoring
 
-🚀 Learning Projects
+📖 Learning Projects
 
-✅ Python scripting (file handling, APIs, automation)
-
-✅ AWS S3 bucket automation with Boto3
-
-🚧 Dockerize a Python application
-
-🚧 Jenkins CI/CD pipeline project
-
-🚧 Infrastructure as Code with Terraform
-
+✅ Python scripting (file handling, loops, functions, classes)
+✅ Automating tasks with Python
+✅ Working with APIs using Python
+🚧 Mini automation projects (to-do apps, data processing scripts)
+🚧 Python scripts for personal projects
 
 📬 Connect with Me
 
-💼 LinkedIn: isutharsahil
+LinkedIn: isutharsahil
 
-📧 Email: sahilsuthar31@gmail.com
+Email: sahilsuthar31@gmail.com
 
-⭐ If you’re also learning DevOps, AWS, or Python, feel free to fork this repo and learn together!
+
+⭐ If you’re also learning Python, feel free to explore this repo, try the scripts, and learn together!
